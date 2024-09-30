@@ -52,3 +52,11 @@ body {
             color: #000;
             transform: scale(1.01);
         }
+
+        .task2 {
+            margin-bottom: 1000px;
+        }
+
+        .task3 {
+            margin-bottom: 300px;
+        }
